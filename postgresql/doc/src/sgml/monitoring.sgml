@@ -1335,7 +1335,7 @@ ____________________________________________________________________________-->
        <structfield>usename</structfield> <type>name</type>
       </para>
       <para>
-       登录到这个后端的用户的 OID
+       登录到这个后端的用户名
       </para></entry>
      </row>
 
